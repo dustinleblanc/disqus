@@ -1,5 +1,16 @@
 {
+    "name": "dustinleblanc/disqus",
+    "description": "Fork of Official disqus Drupal module",
+    "type": "drupal-module",
     "require": {
         "drexarj/disqus-php": "dev-master"
-   }
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Dustin LeBlanc",
+            "email": "dustin.m.leblanc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
 }
